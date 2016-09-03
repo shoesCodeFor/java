@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 
-public class Tutorial2 {
+public class DogAgeCalc {
 	
 	static Scanner input = new Scanner(System.in);
 	static double [] [] ageArr={{1,15,15,15},{2,24,24,24},
